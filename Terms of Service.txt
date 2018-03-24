@@ -1,0 +1,64 @@
+商店应用Get Product ConformationID 隐私协议
+ 
+ 
+如果您要使用本应用，您就需要同意以下本应用所使用的协议
+ 
+1.1 由于本应用使用微软的服务，您在使用微软服务时就要同意微软的协议：
+如果你使用客服服务，就要同意
+Microsoft Answer Desk Service Agreement：https://support.microsoft.com/help/13947/microsoft-answer-desk-service-agreement
+如果你使用微软账户，就要同意
+微软服务协议：https://www.microsoft.com/servicesagreement
+如果你要使用网页激活服务，就要同意
+Microsoft 隐私声明：https://privacy.microsoft.com/privacystatement
+如果您不同意以上的任何协议，就不能使用相对应的服务。
+ 
+1.2 由于本应用使用Guerrilla邮箱的服务，您在使用Jamit Software Limited的服务时就要同意此公司的协议：
+https://www.guerrillamail.com/tos
+ 
+2.1 对于使用本应用需要的条款，您有自由的决定权，同意即可使用，不同意则不能使用
+2.1.1 您不得滥用微软客服来达到自己的利益目的。
+2.1.2 您在使用客服服务是应遵守微软服务协议，不得恶意违反其规定。
+2.1.3 您不得在使用本应用时对其他人的名誉，财产造成影响
+2.1.4 如果您使用该应用需要激活产品，您只能为激活自己的产品为目的，不能为他人激活产品，更不能收费为他人激活。
+2.1.5 以任何方式违反本条款
+ 
+ 
+3 附加说明
+3.1 本应用所提供的第三方服务，本应用不负责其出现的问题，如有问题请联系第三方的服务所有者，使用的所有第三方服务均归其所有，和本应用无关。
+3.2 本条款随时可能更新，在更新时恕不另行通知。
+ 
+Ver 0.1
+ 
+ 
+ 
+ 
+Get Product ConformationID Software Terms of Service
+ 
+ 
+If you use this application, you agree to the terms used in this application
+ 
+1.1 Because of the use of Microsoft services for this application, you agree to Microsoft's agreement when using Microsoft Services:
+If you use Microsoft Support ,you agree
+Microsoft Answer Desk Service Agreement：https://support.microsoft.com/help/13947/microsoft-answer-desk-service-agreement
+If you use Microsoft Account,you agree
+Microsoft Services Agreement：https://www.microsoft.com/servicesagreement
+If you use "web active" service,you agree
+Microsoft Privacy Statement：https://privacy.microsoft.com/privacystatement
+If you do not agree with any of the above agreements, you will not be able to use the corresponding service.
+ 
+1.2 Since this application uses Guerrilla Mailbox service, you agree to the agreement of the company when using Jamit Software Limited's services:
+https://www.guerrillamail.com/tos
+ 
+2.1 You have the discretion to use the terms and conditions of this application, agree to use it, or disagree with it.
+2.1.1 You may not misuse Microsoft Customer Service for your own benefit.
+2.1.2 Your use of customer service is subject to the Microsoft Services Agreement and no malicious contravention of its provisions.
+2.1.3 You may not affect the reputation and property of others when using this application.
+2.1.4 If you use this application you need to activate the product, you can only activate your own product, you can not activate the product for others, and can not charge for others to activate.
+2.1.5 In any way violates these Terms.
+ 
+ 
+3 Additional instructions
+3.1 This application provides third-party services, this application is not responsible for its problems, if you have any questions please contact the third-party service owners, all third-party services are owned, has nothing to do with the application.
+3.2 The terms may be updated at any time, during the update without notice.
+ 
+Ver 0.1
